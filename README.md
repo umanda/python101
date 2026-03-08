@@ -17,4 +17,4 @@ This GitHub repository contains material for a lerning Python laguage. Check out
 
 ## Activities
 
-* [Pattern Printing: 12 Fun Loop Exercises for Beginners](/https://umanda.github.io/python101/Activities/Patterns/pattern-printing.md)
+* [Pattern Printing: 12 Fun Loop Exercises for Beginners](https://umanda.github.io/python101/Activities/Patterns/pattern-printing.html)
